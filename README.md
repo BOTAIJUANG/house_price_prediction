@@ -20,8 +20,6 @@ house-price-prediction
 │   ├── train.csv
 │   └── test.csv
 │
-├── scripts
-│
 └── README.md
 
 ```
