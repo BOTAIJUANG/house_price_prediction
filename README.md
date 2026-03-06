@@ -10,6 +10,7 @@ The dataset contains information about residential homes and their features.
 
 ## Project Structure
 
+```
 house-price-prediction
 │
 ├── notebooks
@@ -23,6 +24,7 @@ house-price-prediction
 │
 └── README.md
 
+```
 ## Methods
 
 The following steps were applied in this project:
